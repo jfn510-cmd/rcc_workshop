@@ -2,15 +2,12 @@
 
 ```
 bread
+jam
+bread
 hummus
 bread
 ```
 
 ## To-dos:
 
-* \[ ] add filling'
-
-
-
-
-
+* \[x] add filling
