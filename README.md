@@ -1,1 +1,7 @@
-This is Research Coding COurse WOrkshiop on 5th Novemeber
+# Learning Git
+
+Here's our todo:
+
+- [x] Create a new file
+- [ ] Make our first commit
+- [ ] Fix this tpyo
